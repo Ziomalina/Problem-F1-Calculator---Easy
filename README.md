@@ -1,5 +1,5 @@
-## Problem F1: Calculator - Easy
-# Facebook Virtual Hackathon 2020
+# Problem F1: Calculator - Easy
+## Facebook Virtual Hackathon 2020
 5 points
 
 Request Clarification
@@ -14,10 +14,14 @@ Constraints
 1 ≤ n ≤ 100
 
 Sample Input
-1-9-4-1+2
+1-9-4-1+2 
+
 1+6+7+7-2
+
 6+4-2-1+3
+
 3+8-1-3+8
+
 5+7-1-5+1
 
 Sample Output
